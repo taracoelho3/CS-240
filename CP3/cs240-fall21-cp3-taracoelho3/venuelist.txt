@@ -1,0 +1,5 @@
+chenagoRoom 3 Binghamton
+appalachian 200 mountainview
+subway 4 marketplace
+jazzmans 2 bartle
+einsteins 1 quad

@@ -1,0 +1,12 @@
+tara3 tara coelho
+mikeLewis mike Lewis
+joesmith joe smith
+emily12 emily lastname
+user01 first Last
+user02 first last
+user03 first last
+user 04 first last
+student01 student name
+student02 study room
+student03 bartle library
+student04 classroom wing
